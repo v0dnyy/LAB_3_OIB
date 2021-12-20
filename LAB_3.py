@@ -105,7 +105,7 @@ def decryption(private_p, encrypt_t, symmetric_k, decrypt_t, vec_init):
     print("\nText decrypted and serialized at:", decrypt_t, "\n")
     pass
 
-# path="C:\Users\D_20\Desktop\source"
+# path="C:\Users\D_20\PycharmProjects\LAB_3_OIB\source"
 
 
 symmetric_key = args.path + "\\symmetric_key.txt"
